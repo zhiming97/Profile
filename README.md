@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BitcoinHodler97
+- 👀 I’m interested in data analytics and visualization
+- 🌱 I’m currently learning R, Python and SQL programming.
+- 📫 Feel free to contact me on Linkedin -> https://www.linkedin.com/in/zhiming97
