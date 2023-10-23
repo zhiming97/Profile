@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zhi Ming.
 - 👀 I’m interested in data analytics, visualization and machine learning
-- 🌱 I’m currently learning R, Python and SQL programming.
+- 🌱 Currently looking into various to automate trades on cryptocurrency exchange to maximise profits
 - 📫 Feel free to contact me on Linkedin -> https://www.linkedin.com/in/zhiming97
